@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Radio Worldwide</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_player">Now Playing</string>
+    <string name="menu_recordings">Recordings</string>
+    <string name="menu_settings">Settings</string>
+
+</resources>
